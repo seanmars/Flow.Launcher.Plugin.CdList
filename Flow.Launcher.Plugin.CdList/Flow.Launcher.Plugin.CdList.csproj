@@ -19,7 +19,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Content Include="plugin.json">
+        <Content Include="plugins.json">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
         <None Update="icon.png">
