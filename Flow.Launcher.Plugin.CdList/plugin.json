@@ -1,0 +1,12 @@
+{
+  "ID": "A3EA904783E14335894354F09DC4B054",
+  "ActionKeyword": "cd",
+  "Name": "CdList",
+  "Description": "Like cd in terminal, but for Flow Launcher",
+  "Author": "seanmars",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.CdList.dll"
+}

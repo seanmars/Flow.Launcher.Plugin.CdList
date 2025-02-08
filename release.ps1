@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.CdList -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.CdList/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.CdList/bin/CdList.zip -Force
