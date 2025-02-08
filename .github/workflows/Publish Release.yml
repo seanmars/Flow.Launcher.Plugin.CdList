@@ -18,7 +18,7 @@ jobs:
         id: version
         uses: notiz-dev/github-action-json-property@release
         with:
-          path: 'Flow.Launcher.Plugin.CdList/plugins.json'
+          path: 'Flow.Launcher.Plugin.CdList/plugin.json'
           prop_path: 'Version'
 
       - name: Setup .NET
