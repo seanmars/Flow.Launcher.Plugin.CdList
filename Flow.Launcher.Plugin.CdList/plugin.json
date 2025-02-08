@@ -7,8 +7,5 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
-  "UrlDownload": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList/releases/download/1.0.0/CdList.zip",
-  "UrlSourceCode": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
-  "IcoPath": "https://raw.githubusercontent.com/seanmars/Flow.Launcher.Plugin.CdList/refs/heads/main/Flow.Launcher.Plugin.CdList/icon.png",
   "ExecuteFileName": "Flow.Launcher.Plugin.CdList.dll"
 }
