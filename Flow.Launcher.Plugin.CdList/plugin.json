@@ -4,7 +4,7 @@
   "Name": "CdList",
   "Description": "Like cd in terminal, but for Flow Launcher",
   "Author": "seanmars",
-  "Version": "1.2.2",
+  "Version": "1.3.0",
   "Language": "csharp",
   "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.CdList",
   "IcoPath": "icon.png",

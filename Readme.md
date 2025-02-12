@@ -18,5 +18,3 @@ pm install CdList
 ## Attribution
 
 All icon used from [Flaticon](https://www.flaticon.com/).
-
-- [Folder](https://www.flaticon.com/free-icon/folder_11471397)
